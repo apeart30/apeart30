@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1CF724&random=false&width=435&lines=Hello+there...;I'm+james;I+build+stuff+for+the+web.;and+test+them+for+security.;lets+connect.)](https://git.io/typing-svg)
 
-<!--
-**apeart30/apeart30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+Hello there! 👋 I go with Maverick, a passionate developer who loves coding and open source. Check out my work and feel free to reach out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Links
+- 🐦 Follow me on [Twitter](https://bit.ly/3NQrRC4) for the latest updates and tech thoughts.
+- 💼 Connect with me on [LinkedIn](https://bit.ly/3Nx2ALE) for professional inquiries and networking.
+- 📚 Explore my [blogs](https://apeart30.github.io/portfolio/) to see some of my projects and contributions.
+
+## Contact Me
+If you have any questions or just want to say hi, don't hesitate to send me a message on [LinkedIn](https://bit.ly/3Nx2ALE) or [Twitter](https://bit.ly/3NQrRC4).
+
+---
+
+Thanks for visiting my GitHub profile! Have a great day!
