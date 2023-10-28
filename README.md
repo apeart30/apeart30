@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-Hello there! 👋 I go with Maverick, a passionate developer who loves coding and open source. Check out my work and feel free to reach out.
+Hello there! 👋 I'm James, a passionate Engineer who loves programming and open source. Check out my work and feel free to reach out.
 
 ## Quick Links
 - 🐦 Follow me on [Twitter](https://bit.ly/3NQrRC4) for the latest updates and tech thoughts.
